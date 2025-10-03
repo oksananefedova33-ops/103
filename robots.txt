@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /editor/
+Disallow: /data/
+
+Sitemap: https://gpt5-ai.pro/sitemap.xml
